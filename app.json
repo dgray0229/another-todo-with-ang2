@@ -1,0 +1,16 @@
+{
+  "name": "another-todo-with-ang2",
+  "description": "A simple ToDo app with Angular 2 and the MEAN stack.",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
