@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/node_modules/node_modules.iml" filepath="$PROJECT_DIR$/node_modules/node_modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/another_mean_todo_with_ang2.iml" filepath="$PROJECT_DIR$/another_mean_todo_with_ang2.iml" />
       <module fileurl="file://$PROJECT_DIR$/routes/routes.iml" filepath="$PROJECT_DIR$/routes/routes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/views/views.iml" filepath="$PROJECT_DIR$/views/views.iml" />
     </modules>
   </component>
 </project>
