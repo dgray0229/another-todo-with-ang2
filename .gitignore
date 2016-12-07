@@ -3,3 +3,6 @@ node_modules
 *.env
 app.json
 GLOBALS.js
+bower_components
+*.iml
+*.xml
