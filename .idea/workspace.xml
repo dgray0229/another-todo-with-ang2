@@ -26,39 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="311f68a8-e640-4ec7-a924-af9576808f24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Task.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app/app.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app/components/tasks/tasks.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app/components/tasks/tasks.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app/services/task.service.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/bower_components.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/karma-test-shim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/protractor.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/systemjs.config.extras.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/systemjs.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/tslint.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/tasks.js" afterPath="$PROJECT_DIR$/routes/tasks.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.html" afterPath="$PROJECT_DIR$/views/index.html" />
     </list>
     <ignored path="another_mean_todo_with_ang2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -91,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tasks.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tasks.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/tasks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-196">
-              <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="180">
+              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tasks.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tasks.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/app/components/tasks/tasks.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="64" lean-forward="false" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+            <state relative-caret-position="255">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -149,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/GLOBALS.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="124" lean-forward="false" selection-start-line="0" selection-start-column="124" selection-end-line="0" selection-end-column="124" />
+              <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -199,7 +168,6 @@
         <option value="$PROJECT_DIR$/node_modules/.env" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/GLOBALS.js" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -211,11 +179,12 @@
         <option value="$PROJECT_DIR$/client/Task.ts" />
         <option value="$PROJECT_DIR$/client/app/main.ts" />
         <option value="$PROJECT_DIR$/client/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/routes/tasks.js" />
         <option value="$PROJECT_DIR$/client/app/components/tasks/tasks.component.ts" />
         <option value="$PROJECT_DIR$/client/app/services/task.service.ts" />
         <option value="$PROJECT_DIR$/client/app/app.module.ts" />
         <option value="$PROJECT_DIR$/client/app/components/tasks/tasks.component.html" />
+        <option value="$PROJECT_DIR$/GLOBALS.js" />
+        <option value="$PROJECT_DIR$/routes/tasks.js" />
       </list>
     </option>
   </component>
@@ -237,8 +206,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="2364" />
-    <option name="width" value="996" />
+    <option name="x" value="2286" />
+    <option name="width" value="1074" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1087,7 +1056,7 @@
       <workItem from="1480387641067" duration="1149000" />
       <workItem from="1480475862330" duration="6532000" />
       <workItem from="1480789998738" duration="7848000" />
-      <workItem from="1481076770582" duration="9181000" />
+      <workItem from="1481076770582" duration="10230000" />
     </task>
     <task id="LOCAL-00001" summary="Added Create, Read, Update and Delete routes.">
       <created>1480489115117</created>
@@ -1096,14 +1065,21 @@
       <option name="project" value="LOCAL" />
       <updated>1480489115117</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finish TODO app.">
+      <created>1481104478023</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1481104478023</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39673000" />
+    <option name="totallyTimeSpent" value="40722000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2364" y="0" width="996" height="1080" extended-state="6" />
+    <frame x="2286" y="0" width="1074" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1133,7 +1109,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3785092" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15060242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="The R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1200,7 +1176,8 @@
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <option name="USE_COMMIT_MESSAGE_MARGIN" value="true" />
     <MESSAGE value="Added Create, Read, Update and Delete routes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Create, Read, Update and Delete routes." />
+    <MESSAGE value="Finish TODO app." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish TODO app." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1416,6 +1393,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1423,6 +1401,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1438,6 +1417,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-780">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1453,6 +1435,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1460,6 +1443,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1517,22 +1501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/tasks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-196">
-          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GLOBALS.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="124" lean-forward="false" selection-start-line="0" selection-start-column="124" selection-end-line="0" selection-end-column="124" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1567,6 +1535,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/tasks/tasks.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/app/services/task.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -1587,10 +1563,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/app/components/tasks/tasks.component.html">
+    <entry file="file://$PROJECT_DIR$/GLOBALS.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="64" lean-forward="false" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/tasks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
       </provider>

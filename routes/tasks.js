@@ -56,7 +56,7 @@ router.put('/task/:id', function(req, res, next) {
     var task = req.body,
         updTask = {};
 
-    if (taask.isDone) {
+    if (task.isDone) {
         updTask.isDone = task.isDone;
     }
 
