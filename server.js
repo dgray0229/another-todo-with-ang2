@@ -5,7 +5,7 @@ var express = require('express'),
     index = require('./routes/index'),
     tasks = require('./routes/tasks'),
 
-    port = 3000,
+    port = process.env.PORT || 3000,
 
     app = express();
 
