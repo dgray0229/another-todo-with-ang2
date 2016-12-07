@@ -1,2 +1,2 @@
 local: nodemon server
-web: npm start
+web: node server.js
