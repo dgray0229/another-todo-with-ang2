@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/another_mean_todo_with_ang2.iml" filepath="$PROJECT_DIR$/another_mean_todo_with_ang2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/client/bower_components/bower_components.iml" filepath="$PROJECT_DIR$/client/bower_components/bower_components.iml" />
       <module fileurl="file://$PROJECT_DIR$/routes/routes.iml" filepath="$PROJECT_DIR$/routes/routes.iml" />
       <module fileurl="file://$PROJECT_DIR$/views/views.iml" filepath="$PROJECT_DIR$/views/views.iml" />
     </modules>
