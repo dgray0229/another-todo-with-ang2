@@ -16,8 +16,7 @@
   "scripts": {
     "heroku-prebuild": "find ./client/* -name package.json -maxdepth 1 -execdir npm install \\;",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server",
-    "heroku-postbuild": "bower install"
+    "start": "node server"
   },
   "keywords": [],
   "author": "Devin Gray",
