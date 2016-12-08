@@ -14,7 +14,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "heroku-prebuild": "find . -name bower.json -maxdepth 1 -execdir bower install \\;",
+    "heroku-prebuild": "bower install",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server",
     "heroku-postbuild": "find ./client/* -name package.json -maxdepth 1 -execdir npm install \\;"
