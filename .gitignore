@@ -4,6 +4,8 @@ GLOBALS.js
 *.iml
 *.xml
 .idea
+.idea/
 npm-debug.log
 .DS_Store
 /*.env
+bower_components
