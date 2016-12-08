@@ -14,10 +14,10 @@
   },
   "devDependencies": {},
   "scripts": {
-    "heroku-prebuild": "bower install",
+    "heroku-prebuild": "find ./client/* -name package.json -maxdepth 1 -execdir npm install \\;",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server",
-    "heroku-postbuild": "find ./client/* -name package.json -maxdepth 1 -execdir npm install \\;"
+    "heroku-postbuild": "bower install"
   },
   "keywords": [],
   "author": "Devin Gray",
