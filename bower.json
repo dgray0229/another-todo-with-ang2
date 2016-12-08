@@ -1,14 +1,17 @@
 {
-  "name": "angular-quickstart",
-  "description": "QuickStart package.json from the documentation, supplemented with testing support",
-  "main": "",
-  "license": "MIT",
+  "name": "another_mean_todo_with_ang2",
+  "description": "todo app",
+  "main": "server.js",
+  "authors": [
+    "Devin Gray"
+  ],
+  "license": "ISC",
   "homepage": "https://github.com/dgray0229/another-todo-with-ang2",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
-    "/bower_components",
+    "client/bower_components",
     "test",
     "tests"
   ],
