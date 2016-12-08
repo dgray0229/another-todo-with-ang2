@@ -17,9 +17,10 @@
     "heroku-prebuild": "find ./client/* -name package.json -maxdepth 1 -execdir npm install \\;",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server",
-    "heroku-postbuild": "find ./* -name bower.json -maxdepth 1 -execdir bower install \\;"
+    "heroku-postbuild": "find . -name bower.json -maxdepth 1 -execdir bower install \\;"
   },
   "keywords": [],
   "author": "Devin Gray",
   "license": "ISC"
 }
+gi

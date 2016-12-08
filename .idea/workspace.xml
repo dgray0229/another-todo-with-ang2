@@ -26,8 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="311f68a8-e640-4ec7-a924-af9576808f24" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/client/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.bowerrc" afterPath="$PROJECT_DIR$/.bowerrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
@@ -53,8 +51,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="375">
+              <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -1148,7 +1146,7 @@
       <workItem from="1480475862330" duration="6532000" />
       <workItem from="1480789998738" duration="7848000" />
       <workItem from="1481076770582" duration="10276000" />
-      <workItem from="1481149504338" duration="8769000" />
+      <workItem from="1481149504338" duration="9184000" />
     </task>
     <task id="LOCAL-00001" summary="Added Create, Read, Update and Delete routes.">
       <created>1480489115117</created>
@@ -1262,11 +1260,25 @@
       <option name="project" value="LOCAL" />
       <updated>1481160846017</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="fix bower postinstall script again&#10;&#10;">
+      <created>1481162049731</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1481162049731</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fix bower postinstall script again&#10;&#10;">
+      <created>1481162221362</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1481162221362</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49537000" />
+    <option name="totallyTimeSpent" value="49952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
@@ -1745,8 +1757,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="375">
+          <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
           <folding />
         </state>
       </provider>
