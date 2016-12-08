@@ -14,6 +14,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "heroku-prebuild": "find ./apps/* -maxdepth 1 -name package.json -execdir npm install \;"
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server"
   },

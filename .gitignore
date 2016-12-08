@@ -1,8 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
-/node_modules
-*.env
-app.json
+node_modules
 GLOBALS.js
 *.iml
 *.xml
-.idea/
+.idea
+npm-debug.log
+.DS_Store
+/*.env
