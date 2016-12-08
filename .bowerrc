@@ -1,3 +1,5 @@
 {
-  "directory": "client/bower_components"
+  "cwd": "~/",
+  "directory": "client/bower_components",
+  "save": true,
 }
