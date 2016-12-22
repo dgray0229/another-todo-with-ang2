@@ -1,2 +1,2 @@
 local: nodemon server
-web: node server.js
+web: cd client; npm install; cd ../; node server.js
