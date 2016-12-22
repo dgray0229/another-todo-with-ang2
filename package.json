@@ -16,7 +16,7 @@
   "devDependencies": {},
   "scripts": {
     "preinstall": "npm run client",
-    "client": "cd client && npm install && bower install && cd ..",
+    "client": "cd client && npm install && cd ..",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server"
   },
