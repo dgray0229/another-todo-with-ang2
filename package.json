@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "cacheDirectories": ["node_modules", "bower_components", "client" ],
   "dependencies": {
     "body-parser": "^1.15.2",
     "bower": "^1.8.0",
@@ -15,10 +16,12 @@
   },
   "devDependencies": {},
   "scripts": {
-    "preinstall": "npm run client",
-    "client": "cd client && npm install && cd ..",
+    "preinstall": "npm run server-package",
+    "postinstall": "npm run client-package",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server"
+    "start": "node server",
+    "client-package": "find ./client/* -name package.json -maxdepth 1 -execdir npm install \\;",
+    "server-package": "find ./client/* -name bower.json -maxdepth 1 -execdir bower install \\;"
   },
   "keywords": [],
   "author": "Devin Gray",
