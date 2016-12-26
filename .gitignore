@@ -7,3 +7,5 @@ GLOBALS.js
 npm-debug.log
 .DS_Store
 /*.env
+!/client/node_modules/
+/node_modules/
